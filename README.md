@@ -20,4 +20,4 @@ Before you begin, ensure you have the following installed:
 - Docker and Docker-compose
 - Terraform
 - A GCP account with billing set up
-"""
+
